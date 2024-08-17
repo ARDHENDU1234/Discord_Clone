@@ -14,7 +14,7 @@ This project is a front-end replica of the Discord website, developed as part of
 - **JavaScript**: Adds interactivity and functionality to the user interface.
 
 ### Demo
-Explore the live demo of the project [here](https://discord-clone-ardhendu-shekhar.vercel.app/).
+Explore the live demo of the project (https://discord-clone-ardhendu-shekhar.vercel.app/).
 
 ### Notes
 - This project focuses solely on the front-end interface and does not include server-side or backend functionality.
