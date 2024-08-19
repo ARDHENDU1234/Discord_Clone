@@ -1,7 +1,7 @@
 ## Discord Front-End Clone
 
 ### Overview
-This project is a front-end replica of the Discord website, developed as part of a 6-week AICTE internship focused on front-end web development. It serves as a visual imitation of Discord's user interface, leveraging HTML, CSS, and JavaScript.
+This project is a front-end replica of the Discord website, focused on front-end web development. It serves as a visual imitation of Discord's user interface, leveraging HTML, CSS, and JavaScript.
 
 ### Features
 - **User Interface Replication**: Accurately mirrors the design and layout of the Discord website.
